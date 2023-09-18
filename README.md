@@ -2,7 +2,7 @@
 The Most Scalable MQTT Broker for Iot , Industrial Iot and cloudnative application.
 Connect any device, at any scale. Move and process your IoT data in real-time anywhere.
 
-## Installation
+## Installation Ubuntu
 
 ```bash
 curl -s https://assets.emqx.com/scripts/install-emqx-deb.sh | sudo bash
