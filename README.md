@@ -46,9 +46,11 @@ and if one node or more fail your operation still working
   At this time we want cluster with manual and static startegy 
   
 - Config File
+  
   You can modify your emqx config file in `/etc/emqx/emqx.conf`
 
 - Check Cluster Status
+  
   `emqx_ctl` command use for users to manage, configure and query EMQX Broker.
   If you want see your cluster status use `emqx_ctl cluster status`
   and if your cluster is ok you see this out put
