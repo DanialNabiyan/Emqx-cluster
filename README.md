@@ -53,7 +53,9 @@ and if one node or more fail your operation still working
   For manual clustring go to this document
   
   [Manual Cluster](https://github.com/DanialNabiyan/Emqx-cluster/blob/main/manual%20cluster/README.md)
+  
   [Static Cluster](https://github.com/DanialNabiyan/Emqx-cluster/blob/main/static%20cluster/README.md)
+  
 - Check Cluster Status
   
   `emqx_ctl` command use for users to manage, configure and query EMQX Broker.
