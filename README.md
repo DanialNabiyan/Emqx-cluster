@@ -50,7 +50,7 @@ and if one node or more fail your operation still working
   You can modify your emqx config file in `/etc/emqx/emqx.conf`
   For manual clustring go to this document
   
-  [Documentation](https://github.com/DanialNabiyan/Emqx-cluster/blob/main/manual%20cluster/README.md)
+  [Manual Cluster](https://github.com/DanialNabiyan/Emqx-cluster/blob/main/manual%20cluster/README.md)
 
 - Check Cluster Status
   
