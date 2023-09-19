@@ -48,6 +48,7 @@ and if one node or more fail your operation still working
 - Config File
   
   You can modify your emqx config file in `/etc/emqx/emqx.conf`
+
   
   For manual clustring go to this document
   
