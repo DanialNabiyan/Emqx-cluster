@@ -1,8 +1,8 @@
 # Manual Cluster
 
-For manual clustring you should this document
+For manual clustring you should use this document
 
-In this example i cluster my emqx in two node but best practice is **three** node for cluster 
+In this example im cluster my emqx in two node but best practice is **three** node for cluster 
 
 You can see configs in `emqx-server1.conf` and `emqx-server2.conf` , each config used in one server
 
@@ -20,7 +20,7 @@ Go to the server2 that you want to join to server1 , run this command
 emqx_ctl cluster join emqx2@192.167.125.5
 ```
 
-At this example i join `emqx2@192.167.125.5` to `emqx@192.167.125.2`
+At this example im join `emqx2@192.167.125.5` to `emqx@192.167.125.2`
 
 After that run this command to see cluster status
 
