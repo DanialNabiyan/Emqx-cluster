@@ -18,7 +18,9 @@ After you set your custome config you must restart your emqx service
 ```bash
 systemctl restart emqx.service
 ```
-After that run this command to see cluster status
+After all nodes are started, the cluster will be automatically established.
+
+run this command to see cluster status
 
 ```bash
 emqx_ctl cluster status
