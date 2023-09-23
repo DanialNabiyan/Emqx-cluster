@@ -26,8 +26,7 @@ and if one node or more fail your operation still working
 
 - Node Name
 
-  Emqx identified nodes with by names
-  Node Name have two part that separated with @, like `emqx@172.198.11.5` or `emqx@myhost.broker.com`
+  Emqx identified nodes with by names , Node Name have two part that separated with @, like `emqx@172.198.11.5` or `emqx@myhost.broker.com`
   First part is name and second part is IP or domain name
 
 - Node Discovery
