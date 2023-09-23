@@ -1,8 +1,8 @@
 # Static Cluster
 
-For static clustring you should this document
+For static clustring you should use this document
 
-In this example i cluster my emqx in two node but best practice is **three** node for cluster 
+In this example im cluster my emqx in two node but best practice is **three** node for cluster 
 
 You can see configs in `emqx-server1.conf` and `emqx-server2.conf` , each config used in one server
 
